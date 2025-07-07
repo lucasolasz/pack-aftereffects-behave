@@ -1,11 +1,11 @@
 import { Metadata } from "next";
-import { Funcionalidades } from "./_components/funcionalidades";
-import { Hero } from "./_components/hero";
 import { NavBar } from "./_components/navbar";
+import { Hero } from "./_components/hero";
 import Beneficios from "./_components/beneficios";
 import { CompreAgora } from "./_components/compreAgora";
-import { Garantia } from "./_components/garantia";
 import { Direitos } from "./_components/direitos";
+import { Funcionalidades } from "./_components/funcionalidades";
+import { Garantia } from "./_components/garantia";
 
 export const metadata: Metadata = {
   title: "Pack de Templates After Effects - Crie Vídeos Incríveis",

@@ -1,7 +1,3 @@
-import Image from "next/image";
-import { FaCheck } from "react-icons/fa";
-import { ButtonComprar } from "./buttonComprar";
-
 export function Garantia() {
   return (
     <div className="w-full py-15 bg-white">
