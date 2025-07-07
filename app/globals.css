@@ -6,11 +6,26 @@ body {
 }
 
 .hero-background {
+  position: relative;
   background-image: url("/images/background-hero.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   z-index: 0;
+}
+
+.hero-background::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 8, 31, 0.3); /* ajuste a opacidade aqui */
+  z-index: 1;
+  pointer-events: none;
+}
+
+.hero-background > * {
+  position: relative;
+  z-index: 2;
 }
 
 .interFont {

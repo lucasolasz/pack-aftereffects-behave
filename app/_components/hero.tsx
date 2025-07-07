@@ -14,7 +14,7 @@ export function Hero() {
               em minutos com nosso pack exclusivo de After Effects
             </h1>
 
-            <p className="text-lg md:text-xl mb-6 text-gray-300 font-bold">
+            <p className="text-lg md:text-xl mb-6 text-white ">
               Transforme suas ideias em animações incríveis com templates 100%
               editáveis, prontos para uso e perfeitos para qualquer projeto.
             </p>
