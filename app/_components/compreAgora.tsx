@@ -10,7 +10,11 @@ export function CompreAgora() {
               Adquira agora nosso pacote de
               <span className="gradient-text"> After Effects</span>
             </h1>
-            <h1 className="text-7xl text-white mt-5">$5</h1>
+            <div className="flex items-center mt-5">
+              <span className="text-[40px] text-white">$</span>
+              <h1 className="text-7xl text-white font-bold">5</h1>
+            </div>
+
             <p className="text-gray-400 mb-5">Envio imediato</p>
             <ButtonComprar>Comprar Agora</ButtonComprar>
             <p className="text-white mt-5">Compra 100% segura.</p>
