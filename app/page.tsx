@@ -3,6 +3,7 @@ import { Funcionalidades } from "./_components/funcionalidades";
 import { Hero } from "./_components/hero";
 import { NavBar } from "./_components/navbar";
 import Beneficios from "./_components/beneficios";
+import { CompreAgora } from "./_components/compreAgora";
 
 export const metadata: Metadata = {
   title: "Pack de Templates After Effects - Crie Vídeos Incríveis",
@@ -58,6 +59,7 @@ export default function Home() {
       <Hero />
       <Beneficios />
       <Funcionalidades />
+      <CompreAgora />
     </div>
   );
 }
