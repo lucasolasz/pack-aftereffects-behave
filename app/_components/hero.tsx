@@ -4,7 +4,7 @@ export function Hero() {
   return (
     <div>
       <div className="w-full flex items-center justify-center">
-        <div className="hero-background max-w-[1240px] mx-auto grid md:grid-cols-2 h-150 rounded-4xl">
+        <div className="hero-background max-w-[1400px] mx-auto grid md:grid-cols-2 h-150 rounded-4xl">
           <div className="flex flex-col justify-center">
             <h1
               className="gradient-text
