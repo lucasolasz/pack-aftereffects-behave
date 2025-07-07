@@ -4,7 +4,7 @@ import { ButtonComprar } from "./button-comprar";
 
 export function Funcionalidades() {
   return (
-    <div className="w-full bg-white py-16 px-4">
+    <div className="w-full bg-white py-16 px-8 md:px-4">
       <div className="max-w-[1240px] mx-auto grid md:grid-cols-2 items-center gap-8">
         <div className="flex items-center justify-center">
           <Image
