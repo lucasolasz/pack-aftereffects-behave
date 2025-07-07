@@ -2,9 +2,9 @@ import { ButtonComprar } from "./buttonComprar";
 
 export function CompreAgora() {
   return (
-    <div className="w-full my-20">
+    <div className="w-full my-20 p-5">
       <div className="bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 p-[2px] rounded-3xl max-w-[1400px] mx-auto">
-        <div className="flex flex-col justify-center items-center p-8 h-150 bg-[#00081f] rounded-3xl">
+        <div className="flex flex-col justify-center items-center p-8 h-150 bg-[#00081f] rounded-3xl ">
           <div className="flex flex-col items-center text-center max-w-200">
             <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
               Adquira agora nosso pacote de
