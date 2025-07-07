@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { FaCheck } from "react-icons/fa";
-import { ButtonComprar } from "./buttonComprar";
+import { ButtonComprar } from "./button-comprar";
 
 export function Funcionalidades() {
   return (

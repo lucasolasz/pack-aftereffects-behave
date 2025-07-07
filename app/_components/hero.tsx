@@ -1,4 +1,4 @@
-import { ButtonComprar } from "./buttonComprar";
+import { ButtonComprar } from "./button-comprar";
 
 export function Hero() {
   return (
