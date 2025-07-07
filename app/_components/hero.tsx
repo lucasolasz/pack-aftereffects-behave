@@ -10,8 +10,8 @@ export function Hero() {
               className="
             text-4xl md:text-5xl font-bold text-white mb-4 "
             >
-              Crie <span className="gradient-text">Vídeos Profissionais </span>
-              em Minutos com Nosso Pack Exclusivo de After Effects
+              Crie <span className="gradient-text">vídeos profissionais </span>
+              em minutos com nosso pack exclusivo de After Effects
             </h1>
 
             <p className="text-lg md:text-xl mb-6 text-gray-300 font-bold">
