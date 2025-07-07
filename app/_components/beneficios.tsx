@@ -9,7 +9,9 @@ export default function Beneficios() {
     >
       <div className="max-w-[700px] flex items-center justify-center flex-col mx-auto ">
         <h1 className="text-4xl font-bold text-center text-white">
-          Por que nosso pack de After Effects é perfeito para você?
+          Por que nosso pack de{" "}
+          <span className="gradient-text">After Effects</span> é perfeito para
+          você?
         </h1>
         <p className="text-lg md:text-xl mb-6 text-gray-600 font-bold text-center mt-4">
           Descubra como nossos templates vão elevar seus projetos a outro nível.
