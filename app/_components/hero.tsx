@@ -4,8 +4,8 @@ export function Hero() {
   return (
     <div>
       <div className="w-full flex items-center justify-center">
-        <div className="hero-background max-w-[1400px] mx-auto grid md:grid-cols-2 h-150 rounded-4xl">
-          <div className="flex flex-col justify-center">
+        <div className="hero-background max-w-[1400px] mx-auto md:grid md:grid-cols-2 h-150 rounded-4xl flex items-center justify-center flex-col text-center p-8">
+          <div className="flex flex-col justify-center items-center">
             <h1
               className="
             text-4xl md:text-5xl font-bold text-white mb-4 "
