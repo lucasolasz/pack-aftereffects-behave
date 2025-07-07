@@ -16,7 +16,7 @@ export function Hero() {
 
             <p className="text-lg md:text-xl mb-6 text-white ">
               Transforme suas ideias em animações incríveis com templates 100%
-              editáveis, prontos para uso e perfeitos para qualquer projeto.
+              editáveis, prontos para uso e perfeitos para qualquer projeto
             </p>
 
             <ButtonComprar>Comprar Agora</ButtonComprar>
