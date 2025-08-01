@@ -2,7 +2,7 @@ import { BannerPackDisponivel } from "./bannerPackDisponivel";
 import { ButtonComprar } from "./button-comprar";
 import VideoPack from "./videoPack";
 
-export default function Beneficios() {
+export default function PromoPack01() {
   return (
     <div className="w-full flex flex-col items-center bg-cor-azul-site py-16 px-4">
       <BannerPackDisponivel
