@@ -6,6 +6,7 @@ import { Garantia } from "./_components/garantia";
 import { Hero } from "./_components/hero";
 import { NavBar } from "./_components/navbar";
 import PromoPack01 from "./_components/promoPack01";
+import EssentialPack01 from "./_components/essentialPack01";
 
 export const metadata: Metadata = {
   title: "Pack de Templates After Effects - Crie Vídeos Incríveis",
@@ -59,6 +60,7 @@ export default function Home() {
       <NavBar />
       <Hero />
       <PromoPack01 />
+      <EssentialPack01 />
       <Funcionalidades />
       <CompreAgora />
       <Garantia />
