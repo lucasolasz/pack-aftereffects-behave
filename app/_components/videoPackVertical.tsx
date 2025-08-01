@@ -1,8 +1,8 @@
-interface VideoPackProps {
+interface VideoPackVerticalProps {
   src: string;
 }
 
-export default function VideoPack({ src }: VideoPackProps) {
+export default function VideoPackVertical({ src }: VideoPackVerticalProps) {
   return (
     <div>
       <video
