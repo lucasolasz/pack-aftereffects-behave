@@ -1,6 +1,6 @@
 export default function ProjectFeatures() {
   return (
-    <div className="w-full px-3 mb-5">
+    <div className="w-full md:w-[550px] px-3 mb-5">
       <div className="flex flex-col bg-degrade-venda p-4 rounded-xl">
         <h1 className="font-extrabold text-2xl text-white font-montserrat  md:text-6xl">
           Project Features
