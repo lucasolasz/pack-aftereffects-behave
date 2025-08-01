@@ -1,10 +1,10 @@
+import { MdOutlineColorLens } from "react-icons/md";
+import { PiClockCountdown } from "react-icons/pi";
 import { SlSizeFullscreen } from "react-icons/sl";
 import { BannerPackDisponivel } from "./bannerPackDisponivel";
 import { ButtonComprar } from "./button-comprar";
-import ProjectFeatures from "./projectFeatures";
 import VideoPackHorizontal from "./videoPackHorizontal";
-import { MdOutlineColorLens } from "react-icons/md";
-import { PiClockCountdown } from "react-icons/pi";
+import ProjectFeaturesEssentialPack from "./projectFeaturesEssentialPack";
 
 export default function EssentialPack01() {
   return (
@@ -40,7 +40,7 @@ export default function EssentialPack01() {
           50+ BACKGROUNDS
         </h1>
 
-        <div className="flex">
+        <div className="flex mb-5">
           <div className="flex flex-col items-center">
             <SlSizeFullscreen className="text-white text-5xl" />
             <p className="text-white">Edit Size</p>
@@ -57,10 +57,10 @@ export default function EssentialPack01() {
           </div>
         </div>
 
-        <ProjectFeatures />
+        <ProjectFeaturesEssentialPack />
 
         <ButtonComprar>Buy now</ButtonComprar>
-        <div className="text-center p-3">
+        <div className="text-center p-3 mb-5">
           <p className="text-white mt-5">100% secure purchase.</p>
           <p className="text-white">One-time payment and lifetime access</p>
           <img
