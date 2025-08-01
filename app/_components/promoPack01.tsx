@@ -1,7 +1,7 @@
 import { BannerPackDisponivel } from "./bannerPackDisponivel";
 import { ButtonComprar } from "./button-comprar";
 import ProjectFeatures from "./projectFeatures";
-import VideoPack from "./videoPack";
+import VideoPackVertical from "./videoPackVertical";
 
 export default function PromoPack01() {
   return (
@@ -13,19 +13,19 @@ export default function PromoPack01() {
 
       <div className="max-w-[1000px] mx-auto flex flex-col items-center justify-center bg-cor-azul-site">
         <div className="md:grid md:grid-cols-2 flex gap-4 p-3">
-          <VideoPack src="/videos/promo_pack_01/coffe.mp4" />
+          <VideoPackVertical src="/videos/promo_pack_01/coffe.mp4" />
 
-          <VideoPack src="/videos/promo_pack_01/tenis_nike.mp4" />
+          <VideoPackVertical src="/videos/promo_pack_01/tenis_nike.mp4" />
         </div>
 
         <div className="md:grid md:grid-cols-2 flex gap-4 p-3 md:p-0">
-          <VideoPack src="/videos/promo_pack_01/spider.mp4" />
-          <VideoPack src="/videos/promo_pack_01/ghost.mp4" />
+          <VideoPackVertical src="/videos/promo_pack_01/spider.mp4" />
+          <VideoPackVertical src="/videos/promo_pack_01/ghost.mp4" />
         </div>
 
         <div className="grid grid-cols-2 gap-4 p-3 items-center">
-          <VideoPack src="/videos/promo_pack_01/michael_jordan.mp4" />
-          <VideoPack src="/videos/promo_pack_01/michael_jordan.mp4" />
+          <VideoPackVertical src="/videos/promo_pack_01/michael_jordan.mp4" />
+          <VideoPackVertical src="/videos/promo_pack_01/michael_jordan.mp4" />
         </div>
 
         <ProjectFeatures />
