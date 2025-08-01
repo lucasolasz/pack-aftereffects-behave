@@ -11,7 +11,7 @@ export default function VideoPack({ src }: VideoPackProps) {
         loop
         muted
         playsInline
-        className="md:w-80 md:h-150 shadow p-2"
+        className="md:w-80 md:h-150 shadow"
       />
     </div>
   );
