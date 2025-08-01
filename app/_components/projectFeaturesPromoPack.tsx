@@ -1,4 +1,4 @@
-export default function ProjectFeatures() {
+export default function ProjectFeaturesPromoPack() {
   return (
     <div className="w-full md:w-[550px] px-3 mb-5">
       <div className="flex flex-col bg-degrade-venda p-4 rounded-xl">

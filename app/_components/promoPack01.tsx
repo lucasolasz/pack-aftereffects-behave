@@ -1,6 +1,6 @@
 import { BannerPackDisponivel } from "./bannerPackDisponivel";
 import { ButtonComprar } from "./button-comprar";
-import ProjectFeatures from "./projectFeatures";
+import ProjectFeaturesPromoPack from "./projectFeaturesPromoPack";
 import VideoPackVertical from "./videoPackVertical";
 
 export default function PromoPack01() {
@@ -28,7 +28,7 @@ export default function PromoPack01() {
           <VideoPackVertical src="/videos/promo_pack_01/michael_jordan.mp4" />
         </div>
 
-        <ProjectFeatures />
+        <ProjectFeaturesPromoPack />
 
         <ButtonComprar>Buy now</ButtonComprar>
         <div className="text-center p-3">
