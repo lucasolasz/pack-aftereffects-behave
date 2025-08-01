@@ -25,7 +25,19 @@ export default function Beneficios() {
 
         <div className="flex items-center mx-4">
           <VideoPack src="/videos/promo_pack_01/michael_jordan.mp4" />
-          <div></div>
+          <div className="h- bg-degrade-venda">
+            <h1>Project</h1>
+            <h1>Features</h1>
+            <p>
+              <span>5</span> individual ".aep" files
+            </p>
+            <p>Completely editable</p>
+            <p>No plug-ins needed</p>
+            <p>Assets Included</p>
+            <p>Use it in your work</p>
+            <p>Compatible with Windows and MacOS</p>
+            <p>Amazing Time Saver</p>
+          </div>
         </div>
       </div>
     </div>
