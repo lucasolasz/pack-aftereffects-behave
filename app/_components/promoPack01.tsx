@@ -8,7 +8,7 @@ export default function PromoPack01() {
     <div className="w-full flex flex-col items-center bg-cor-azul-site py-16 px-4">
       <BannerPackDisponivel
         titulo="PROMO PACK 01"
-        descricao="5 Completely editable projetcs"
+        descricao="6 Completely editable projetcs"
       />
 
       <div className="max-w-[1000px] mx-auto flex flex-col items-center justify-center bg-cor-azul-site">

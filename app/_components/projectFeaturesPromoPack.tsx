@@ -6,7 +6,7 @@ export default function ProjectFeaturesPromoPack() {
           Project Features
         </h1>
         <p className="text-white text-sm mt-5 md:text-base">
-          - <span className="font-bold text-white">5</span> individual ".aep"
+          - <span className="font-bold text-white">6</span> individual ".aep"
           files
         </p>
         <p className="text-white text-sm my-1 md:text-base">
