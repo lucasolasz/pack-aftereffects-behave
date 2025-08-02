@@ -1,8 +1,14 @@
 interface VideoPackHorizontalProps {
   src: string;
+  width?: string; // Exemplo: "md:w-150"
+  height?: string; // Exemplo: "md:h-80"
 }
 
-export default function VideoPackHorizontal({ src }: VideoPackHorizontalProps) {
+export default function VideoPackHorizontal({
+  src,
+  width = "md:w-150",
+  height = "md:h-80",
+}: VideoPackHorizontalProps) {
   return (
     <div>
       <video
@@ -11,7 +17,7 @@ export default function VideoPackHorizontal({ src }: VideoPackHorizontalProps) {
         loop
         muted
         playsInline
-        className="md:w-150 md:h-80 shadow"
+        className={`${width} ${height} shadow`}
       />
     </div>
   );
