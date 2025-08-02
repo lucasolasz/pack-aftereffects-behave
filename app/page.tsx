@@ -9,6 +9,7 @@ import MorePacks from "./_components/morePacks";
 import { NavBar } from "./_components/navbar";
 import PromoPack01 from "./_components/promoPack01";
 import { EverythingYouGet } from "./_components/everythingYouGet";
+import FreeProjectMorales from "./_components/freeProjectMorales";
 
 export const metadata: Metadata = {
   title: "Pack de Templates After Effects - Crie Vídeos Incríveis",
@@ -66,6 +67,7 @@ export default function Home() {
       <MorePacks />
       <EditTheWay />
       <EverythingYouGet />
+      <FreeProjectMorales />
       {/* <CompreAgora /> */}
       <Garantia />
       <Direitos />
