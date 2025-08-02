@@ -9,11 +9,11 @@ export function Garantia() {
         />
         <div className="my-5">
           <h1 className="text-4xl font-bold cor-azul-site">
-            100% do seu dinheiro de volta
+            100% of your money back
           </h1>
           <p className="text-gray-500">
-            Caso o produto não funcione ou não seja do seu agrado, faremos a
-            devolução total do seu dinheiro e o cancelamento da compra.
+            If the product does not work or is not to your liking, we will give
+            you a full refund and cancel the purchase.
           </p>
         </div>
       </div>

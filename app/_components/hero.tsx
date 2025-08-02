@@ -13,17 +13,17 @@ export function Hero() {
               className="
             text-4xl md:text-5xl font-bold text-white"
             >
-              Crie
+              Create
               <span className="gradient-text">
                 <ReactTyped
                   className="md:text-5xl text-4xl font-bold md:pl-4 pl-2"
                   strings={[
-                    "animações incríveis",
-                    "conteúdo de impacto",
-                    "vídeos de alto nível",
-                    "histórias visuais",
-                    "projetos memoráveis",
-                    "vídeos profissionais",
+                    "amazing animations",
+                    "impactful content",
+                    "high-quality videos",
+                    "visual stories",
+                    "memorable projects",
+                    "professional videos",
                   ]}
                   typeSpeed={120}
                   backSpeed={140}
@@ -35,15 +35,15 @@ export function Hero() {
               className="
             text-4xl md:text-5xl font-bold text-white mb-4 "
             >
-              em minutos com nosso pack exclusivo de After Effects
+              in minutes with our exclusive After Effects pack
             </h1>
 
             <p className="text-lg md:text-xl mb-6 text-white ">
-              Transforme suas ideias em animações incríveis com templates 100%
-              editáveis, prontos para uso e perfeitos para qualquer projeto
+              Turn your ideas into amazing animations with 100% editable
+              templates that are ready to use and perfect for any project.
             </p>
 
-            <ButtonComprar>Comprar Agora</ButtonComprar>
+            <ButtonComprar>Buy Now</ButtonComprar>
           </div>
         </div>
       </div>
