@@ -46,7 +46,7 @@ export default function EssentialPack01() {
             <p className="text-white">Edit Size</p>
           </div>
 
-          <div className="flex flex-col items-center md:mx-30">
+          <div className="flex flex-col items-center mx-10 md:mx-30">
             <MdOutlineColorLens className="text-white text-5xl" />
             <p className="text-white">Edit Colors</p>
           </div>
