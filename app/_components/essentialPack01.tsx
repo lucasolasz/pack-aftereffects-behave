@@ -10,9 +10,8 @@ export default function EssentialPack01() {
   return (
     <div className="w-full flex flex-col items-center bg-cor-azul-site px-4">
       <BannerPackDisponivel
-        titulo="ESSENCIAL PACK 01"
-        descricao="3 Completely editable projetcs"
-        descricao2="150+ diferent comps"
+        titulo="BACKGROUND PACK 01"
+        descricao="50+ different backgrounds"
       />
 
       <div className="max-w-[1000px] mx-auto flex flex-col items-center justify-center bg-cor-azul-site">

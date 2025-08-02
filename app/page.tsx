@@ -66,7 +66,7 @@ export default function Home() {
       <MorePacks />
       <EditTheWay />
       <EverythingYouGet />
-      <CompreAgora />
+      {/* <CompreAgora /> */}
       <Garantia />
       <Direitos />
     </div>
