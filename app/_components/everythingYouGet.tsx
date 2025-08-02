@@ -1,7 +1,7 @@
 import { FaCheck } from "react-icons/fa";
 import { ButtonComprar } from "./button-comprar";
 
-export function Funcionalidades() {
+export function EverythingYouGet() {
   return (
     <div className="w-full bg-white items-center text-center py-10 px-10 mt-10">
       <h1 className="text-[cor-azul-site] text-3xl font-bold mb-5 ">

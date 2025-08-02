@@ -1,14 +1,14 @@
 import { Metadata } from "next";
 import { CompreAgora } from "./_components/compreAgora";
 import { Direitos } from "./_components/direitos";
+import EditTheWay from "./_components/editTheWay";
 import EssentialPack01 from "./_components/essentialPack01";
-import { Funcionalidades } from "./_components/funcionalidades";
 import { Garantia } from "./_components/garantia";
 import { Hero } from "./_components/hero";
+import MorePacks from "./_components/morePacks";
 import { NavBar } from "./_components/navbar";
 import PromoPack01 from "./_components/promoPack01";
-import MorePacks from "./_components/morePacks";
-import EditTheWay from "./_components/editTheWay";
+import { EverythingYouGet } from "./_components/everythingYouGet";
 
 export const metadata: Metadata = {
   title: "Pack de Templates After Effects - Crie Vídeos Incríveis",
@@ -65,7 +65,7 @@ export default function Home() {
       <EssentialPack01 />
       <MorePacks />
       <EditTheWay />
-      <Funcionalidades />
+      <EverythingYouGet />
       <CompreAgora />
       <Garantia />
       <Direitos />
