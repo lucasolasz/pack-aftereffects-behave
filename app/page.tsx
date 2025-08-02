@@ -65,7 +65,7 @@ export default function Home() {
       <EssentialPack01 />
       <MorePacks />
       <EditTheWay />
-      {/* <Funcionalidades /> */}
+      <Funcionalidades />
       <CompreAgora />
       <Garantia />
       <Direitos />
