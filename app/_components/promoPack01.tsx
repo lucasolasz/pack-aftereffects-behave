@@ -25,7 +25,7 @@ export default function PromoPack01() {
 
         <div className="grid grid-cols-2 gap-4 p-3 items-center">
           <VideoPackVertical src="/videos/promo_pack_01/michael_jordan.mp4" />
-          <VideoPackVertical src="/videos/promo_pack_01/michael_jordan.mp4" />
+          <VideoPackVertical src="/videos/promo_pack_01/rayssa.mp4" />
         </div>
 
         <ProjectFeaturesPromoPack />
