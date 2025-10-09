@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# 🎬 Pack After Effects Behave
 
-First, run the development server:
+Transforme suas animações no After Effects com **Pack After Effects Behave** — um conjunto premium de animações dinâmicas para dar vida aos seus projetos de forma rápida, intuitiva e profissional.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📷 Capturas
+<img width="1399" height="705" alt="PRINT1" src="https://github.com/user-attachments/assets/2079eed3-6d2b-429c-aaa8-f7ff113b0faa" />
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<img width="631" height="697" alt="PRINT2" src="https://github.com/user-attachments/assets/2ccd4f6d-bb59-4ff5-a70d-9304e2e5bae9" />
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<img width="917" height="760" alt="Screenshot_1" src="https://github.com/user-attachments/assets/0fe69e77-68ff-4cf6-9c0b-4e5e099423f6" />
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🚀 O Que é o Pack After Effects Behave?
 
-To learn more about Next.js, take a look at the following resources:
+O **Pack After Effects Behave** é uma coleção de animações pré-configuradas para After Effects, desenvolvidas para acelerar seu fluxo de trabalho criativo. Ideal para designers, animadores e produtores de vídeo que querem criar movimentos realistas e envolventes sem perder tempo configurando tudo manualmente.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📈 Ideal Para
 
-## Deploy on Vercel
+- Criadores de conteúdo digital  
+- Agências de design  
+- Produtores de vídeo  
+- Profissionais de marketing  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🛒 Adquira o Seu
+
+Esse pack transforma completamente seu processo de produção de animações — trazendo eficiência e qualidade profissional.  
+Entre em contato para saber mais sobre licenciamento e preços.
+
+---
+
+**Pack After Effects Behave** — Eleve sua criatividade e produza animações incríveis com facilidade!
